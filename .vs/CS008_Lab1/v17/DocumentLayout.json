@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jzcpo\\source\\repos\\CS008_Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E0C0F6-4230-4D99-B414-1ED5F582F5F4}|CS008_Lab1\\CS008_Lab1.vcxproj|C:\\Users\\jzcpo\\source\\repos\\CS008_Lab1\\CS008_Lab1\\Chi_Chiu_Pong_Lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1E0C0F6-4230-4D99-B414-1ED5F582F5F4}|CS008_Lab1\\CS008_Lab1.vcxproj|solutionrelative:CS008_Lab1\\Chi_Chiu_Pong_Lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chi_Chiu_Pong_Lab1.cpp",
+              "DocumentMoniker": "C:\\Users\\jzcpo\\source\\repos\\CS008_Lab1\\CS008_Lab1\\Chi_Chiu_Pong_Lab1.cpp",
+              "RelativeDocumentMoniker": "CS008_Lab1\\Chi_Chiu_Pong_Lab1.cpp",
+              "ToolTip": "C:\\Users\\jzcpo\\source\\repos\\CS008_Lab1\\CS008_Lab1\\Chi_Chiu_Pong_Lab1.cpp",
+              "RelativeToolTip": "CS008_Lab1\\Chi_Chiu_Pong_Lab1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T18:13:32.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

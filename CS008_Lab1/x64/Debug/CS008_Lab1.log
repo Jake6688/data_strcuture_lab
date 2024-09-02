@@ -1,0 +1,6 @@
+﻿  Chi_Chiu_Pong_Lab1.cpp
+C:\Users\jzcpo\source\repos\CS008_Lab1\CS008_Lab1\Chi_Chiu_Pong_Lab1.cpp(29,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jzcpo\source\repos\CS008_Lab1\CS008_Lab1\Chi_Chiu_Pong_Lab1.cpp(39,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jzcpo\source\repos\CS008_Lab1\CS008_Lab1\Chi_Chiu_Pong_Lab1.cpp(58,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jzcpo\source\repos\CS008_Lab1\CS008_Lab1\Chi_Chiu_Pong_Lab1.cpp(66,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CS008_Lab1.vcxproj -> C:\Users\jzcpo\source\repos\CS008_Lab1\x64\Debug\CS008_Lab1.exe
